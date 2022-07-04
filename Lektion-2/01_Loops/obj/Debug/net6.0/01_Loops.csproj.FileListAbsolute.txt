@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\bin\Debug\net6.0\01_Loops.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\bin\Debug\net6.0\01_Loops.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\bin\Debug\net6.0\01_Loops.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\bin\Debug\net6.0\01_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\bin\Debug\net6.0\01_Loops.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\refint\01_Loops.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\01_Loops.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-2\01_Loops\obj\Debug\net6.0\ref\01_Loops.dll

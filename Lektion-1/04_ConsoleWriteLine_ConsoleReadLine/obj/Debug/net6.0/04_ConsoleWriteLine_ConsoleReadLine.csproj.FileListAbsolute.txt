@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\bin\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\bin\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\bin\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\bin\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\bin\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\refint\04_ConsoleWriteLine_ConsoleReadLine.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\04_ConsoleWriteLine_ConsoleReadLine.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND22\netfund22-csandaspnet\Lektion-1\04_ConsoleWriteLine_ConsoleReadLine\obj\Debug\net6.0\ref\04_ConsoleWriteLine_ConsoleReadLine.dll
