@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRhLmimCktj4Fxm9h9R0Ncd//5swCNnpHl5nI3TZH1NtEudqEILaolm5ts6STozNpeiUwjuXRg9SZ0fYfQAAXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND22\\netfund22-csandaspnet\\Exercises\\Exersice_4\\Exersice_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
