@@ -1,0 +1,7 @@
+﻿@using _02_Service_Lifetimes.Repositories
+@inject ITransientRepository transientRepository
+
+<p>
+    <strong>PARTIAL:</strong>
+    <span>@transientRepository.GetGuid()</span>
+</p>
