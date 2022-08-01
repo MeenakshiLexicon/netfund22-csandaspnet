@@ -1,0 +1,26 @@
+﻿<div class="header">
+    <div class="container">
+        <div class="logotype">
+            <img src="~/images/logo.svg" alt="Kenkata Webshop">
+        </div>
+        <div class="search">
+            <form id="searchbox_form">
+                <input id="searchbox" type="text" placeholder="Search products...">
+                <label for="searchbox">
+                    <i class="fa-regular fa-magnifying-glass"></i>
+                </label>
+            </form>
+        </div>
+        <div class="webshop_menu">
+            <a class="me-4" asp-controller="Account" asp-action="Index"><i class="fa-regular fa-user"></i> My Account</a>
+            <a asp-controller="Shop" asp-action="WishList"><i class="fa-regular fa-heart"></i></a>
+            <a asp-controller="Shop" asp-action="Compare" ><i class="fa-regular fa-shuffle"></i></a>
+            <a asp-controller="Shop" asp-action="Cart">
+                <i class="fa-regular fa-bag-shopping">
+                    <span class="translate-middle badge rounded-pill">0</span>
+                </i>
+                $0.00
+            </a>
+        </div>
+    </div>
+</div>

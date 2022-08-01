@@ -1,0 +1,42 @@
+/* _content/03_ASPNET_MVC_PartialViews_And_Views/Views/Home/Index.cshtml.rz.scp.css */
+.top_menu[b-3q4sc8k62n] {
+    height: 40px;
+    background-color: var(--color-theme);
+    color: var(--color-white);
+    font-size: 1rem;
+}
+
+    .top_menu .container[b-3q4sc8k62n] {
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .top_menu .container .site_settings[b-3q4sc8k62n] {
+            display: flex;
+            align-items: center;
+        }
+
+            .top_menu .container .site_settings .dropdown[b-3q4sc8k62n] {
+                margin-right: 2rem;
+            }
+
+                .top_menu .container .site_settings .dropdown button[b-3q4sc8k62n] {
+                    background-color: transparent;
+                    color: var(--color-white);
+                    border: none;
+                    margin: 0;
+                    padding: 0;
+                }
+
+        .top_menu .container .links a[b-3q4sc8k62n] {
+            color: var(--color-white);
+            text-decoration: none;
+            margin-left: 0.8rem;
+        }
+
+            .top_menu .container .links a:hover[b-3q4sc8k62n] {
+                color: var(--color-dark-theme);
+            }
+/* _content/03_ASPNET_MVC_PartialViews_And_Views/Views/Shared/_TopMenuPartial.cshtml.rz.scp.css */
