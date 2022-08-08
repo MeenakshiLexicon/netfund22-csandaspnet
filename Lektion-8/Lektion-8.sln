@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_WebShop_Kenkata", "00_WebShop_Kenkata\00_WebShop_Kenkata.csproj", "{CA06B059-71AD-47DE-B177-71A72CCE5C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_WebShop_Kenkata", "01_WebShop_Kenkata\01_WebShop_Kenkata.csproj", "{2774D479-C1A7-4D27-A4F1-D4902F7A57C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA06B059-71AD-47DE-B177-71A72CCE5C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA06B059-71AD-47DE-B177-71A72CCE5C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA06B059-71AD-47DE-B177-71A72CCE5C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA06B059-71AD-47DE-B177-71A72CCE5C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2774D479-C1A7-4D27-A4F1-D4902F7A57C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774D479-C1A7-4D27-A4F1-D4902F7A57C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774D479-C1A7-4D27-A4F1-D4902F7A57C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774D479-C1A7-4D27-A4F1-D4902F7A57C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A576A7-6BC0-472C-9A9B-EB8F3E216160}
+	EndGlobalSection
+EndGlobal
