@@ -1,0 +1,28 @@
+﻿@model IEnumerable<_02_EntityFrameworkCore.Models.Entities.ProductEntity>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+
+@foreach (var item in Model) {
+    <div class="col">
+        <div class="card h-100">
+            <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Description</p>
+            </div>
+        </div>
+    </div>
+}
+
+</div>
